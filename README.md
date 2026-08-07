@@ -1,4 +1,4 @@
-# SMILES - Smile Detection using Neural Networks
+#Smile Detection using Neural Networks
 
 This repository contains a deep learning project focused on classifying human facial images as either "smiling" or "not smiling" using the **SMILES** dataset[cite: 1, 2]. The project explores and compares the capabilities of **Fully Connected Feed Forward Neural Networks (FFNN)** and **Convolutional Neural Networks (CNN)**, along with a systematic hyperparameter optimization process[cite: 1, 2].
 
