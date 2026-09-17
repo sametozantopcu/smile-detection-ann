@@ -33,6 +33,6 @@ Due to their inherent capacity to preserve and learn local spatial dependencies 
 * Google Colab
 
 ## 👥 Developers
-This project was developed as a collaborative academic study at Bursa Teknik University, Department of Mechatronics Engineering[cite: 2]:
+This project was developed as a collaborative academic study at Bursa Teknik University, Department of Mechatronics Engineering:
 * Samet Ozan Topcu
 * İbrahim İdris İbrahim
